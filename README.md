@@ -47,16 +47,19 @@
 
 ---
 
+---
+
 ### 📊 The Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/> 
-<img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/> 
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="180"/>
 
-<br/>
+  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6" />
 
 </div>
 
