@@ -2,6 +2,10 @@
 
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Python%20%7C%20C%2B%2B&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn" width="100%"/>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=B.Tech+CSE+(AI+%26+ML)+Student;Building+Efficient+Automation;C%2B%2B+and+Low+Level+Engineering;Python+Scripting+%26+Backend" alt="Typing SVG" />
+  </a>
+
 </div>
 
 ---
