@@ -1,4 +1,23 @@
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?section=header&type=rect&text=Pulkit%20Pradhan&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Python%20%7C%20C%2B%2B&color=0D1117&fontColor=ffffff&fontSize=50&descSize=20" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=3F88C5&center=true&vCenter=true&width=435&lines=Python+Automation;Data+Structures+%26+Algorithms;C%2B%2B+Development" alt="Typing SVG" />
+  </a>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+- **Student:** B.Tech Computer Science (AI & ML)
+- **Focus:** Building efficient automation scripts and learning low-level engineering.
+- **Current Stack:** Python, C++, Git.
+
+---
+
+### 📊 Weekly Development Stats
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1029957609119293470) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pulkit_real.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pulkit Pradhan ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pulkitpradhan12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com) 
