@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Python%20%7C%20C%2B%2B&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=3F88C5&center=true&vCenter=true&width=435&lines=Python+Automation;Data+Structures+%26+Algorithms;C%2B%2B+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=3F88C5&center=true&vCenter=true&width=435&lines=Python+Automation;DSA+%26+Low+Level+Coding;C%2B%2B+Development" alt="Typing SVG" />
   </a>
 
 </div>
@@ -54,22 +54,24 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false)
 <br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
-### 🏆 Achievements (3D View)
+### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PulkitPradhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PulkitPradhan&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
 ### ✍️ Random Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
 </div>
 
 ---
