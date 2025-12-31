@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=AI%20Engineer%20in%20Making%20%7C%20Python%20%7C%20C++&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=AI%20Engineer%20in%20Making%20%7C%20Python%20%7C%20C%2B%2B&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn&height=250" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AI+%26+ML)+Student;Building+Efficient+Automation;Explaining+Code+to+Machines;Leveling+Up+in+C%2B%2B+and+Unreal" alt="Typing SVG" />
@@ -60,7 +60,7 @@
 
 </div>
 
-### 🏆 Trophies
+### 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PulkitPradhan&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4" />
 </div>
