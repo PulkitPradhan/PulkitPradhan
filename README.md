@@ -58,7 +58,6 @@
 <div align="center">
 
 
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="200"/>
 
 
@@ -80,6 +79,20 @@
 </div>
 
 
+### 📊 Weekly Development Stats
+
+<div align="center">
+  [![wakatime](https://wakatime.com/badge/user/84c087ca-b9d4-4056-8a73-aea0ec74533c.svg)](https://wakatime.com/@84c087ca-b9d4-4056-8a73-aea0ec74533c)
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+
+  <br><br>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="100%">
+
+</div>
 
 ### 🏆 Achievements
 
