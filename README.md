@@ -1,82 +1,91 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Python%20%7C%20C%2B%2B&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=AI%20Engineer%20in%20Making%20%7C%20Python%20%7C%20C++&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=B.Tech+CSE+(AI+%26+ML)+Student;Building+Efficient+Automation;C%2B%2B+and+Low+Level+Engineering;Python+Scripting+%26+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AI+%26+ML)+Student;Building+Efficient+Automation;Explaining+Code+to+Machines;Leveling+Up+in+C%2B%2B+and+Unreal" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-- **Student:** B.Tech Computer Science (AI & ML)
-- **Focus:** Building efficient automation scripts and learning low-level engineering.
-- **Current Stack:** Python, C++, Git.
+### ⚡ About Me
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="center" width="50%">
+      <h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+      <br/>
+      I am a <b>Computer Science</b> student specializing in <b>AI & ML</b>. I love bridging the gap between high-level AI logic and low-level system engineering.
+      <br/><br/>
+      🚀 <b>Current Focus:</b> Mastering Python Automation & C++.
+      <br/>
+      🤖 <b>Goal:</b> Building smart systems and game mechanics.
+      <br/>
+      ☕ <b>Fuel:</b> Coffee and debugging errors.
+    </td>
+    <td valign="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-### 🌐 Socials
+### 🛠️ The Arsenal (Tech Stack)
+
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1029957609119293470) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pulkit_real.exe) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PulkitPradhan) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pulkitpradhan12) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com)
+| **Languages** | **AI & Data Science** | **Dev & Creative Tools** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br/> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <br/> ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br/> ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) <br/> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### 💻 Tech Stack
+### 📊 The Stats
+
 <div align="center">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://github-readme-stats.vercel.app/api?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/> 
+<img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="180"/>
 
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false)
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6" />
 
 </div>
 
-### 🏆 Achievements
+### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PulkitPradhan&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+### 🧠 Food for Thought
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 ---
 
-### 📊 Weekly Development Breakdown
+### 🌐 Connect with Me
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=PulkitPradhan&icon=2&color=0" />
-  </a>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1029957609119293470) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pulkit_real.exe) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PulkitPradhan) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com)
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://visitcount.itsvg.in/api?id=PulkitPradhan&icon=2&color=0" />
 </div>
