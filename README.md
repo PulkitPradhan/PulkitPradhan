@@ -82,8 +82,7 @@
 ### 📊 Weekly Development Stats
 
 <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/84c087ca-b9d4-4056-8a73-aea0ec74533c.svg)](https://wakatime.com/@84c087ca-b9d4-4056-8a73-aea0ec74533c)
-
+  <a href="https://wakatime.com/@84c087ca-b9d4-4056-8a73-aea0ec74533c"><img src="https://wakatime.com/badge/user/84c087ca-b9d4-4056-8a73-aea0ec74533c.svg" alt="Total time coded since Dec 31 2025" /></a>
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
