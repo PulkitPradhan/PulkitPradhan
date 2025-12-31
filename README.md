@@ -49,24 +49,92 @@
 
 ---
 
-### 📊 The Stats
+#---
+
+
+
+### 📊 The Stats (Live Tracking)
+
+
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/> 
+
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="200"/>
+
+
+
+  <br/><br/>
+
+
+
+  <h3>👨‍💻 Most Used Languages</h3>
+
+  <img src="https://img.shields.io/badge/Python-Top%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C++-Core%20Focus-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTML%2FCSS-Web%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="180"/>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6" />
 
 </div>
+
+
 
 ### 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PulkitPradhan&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4" />
+
+  <img src="https://img.shields.io/badge/Achievement-100%2B%20Contributions-success?style=flat-square&logo=github" />
+
+  <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-blue?style=flat-square&logo=github" />
+
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-critical?style=flat-square&logo=github" />
+
 </div>
+
+
+
+---
+
+
+
+### 🧠 Food for Thought
+
+
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+
+
+---
+
+
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1029957609119293470) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pulkit_real.exe) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PulkitPradhan) 
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com)
+
+
+
+</div>
+
 
 ---
 
