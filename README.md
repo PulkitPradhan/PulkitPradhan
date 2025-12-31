@@ -77,19 +77,14 @@
   
 
 </div>
-
-
-### 📊 Weekly Development Stats
-
-<div align="center">
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulkitPradhan&bg_color=0f0c29&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/badge/user/84c087ca-b9d4-4056-8a73-aea0ec74533c.svg" alt="Wakatime Stats" />
+    <div align="center">
+  <img src="https://wakatime.com/badge/user/84c087ca-b9d4-4056-8a73-aea0ec74533c.svg" alt="Wakatime Stats" />
   </a>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
   <br/><br/>
 
