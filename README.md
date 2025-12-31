@@ -87,5 +87,9 @@
 
 <div align="center">
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=PulkitPradhan&icon=2&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=PulkitPradhan&style=flat-square&label=Profile+Views&color=00BFFF" alt="Profile Views"/>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100" width="100%"/>
 </div>
