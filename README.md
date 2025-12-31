@@ -114,19 +114,6 @@
 ---
 
 
-
-
-
----
-
-### 🧠 Food for Thought
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
