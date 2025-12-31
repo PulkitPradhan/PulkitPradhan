@@ -1,15 +1,3 @@
-## Hi there 👋
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hello%20There,%20I'm%20Pulkit!&fontSize=60&fontAlignY=35&desc=Game%20Developer%20%7C%20Python%20%7C%20C%2B%2B&descSize=25&descAlignY=65&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+Horror+Games+in+Unreal;Cracking+Python+Automation;Walking+While+Others+Run;B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
-  </a>
-
-</div>
 
 ---
 ## 🌐 Socials:
