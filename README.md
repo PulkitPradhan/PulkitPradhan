@@ -1,14 +1,4 @@
-<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hello%20There,%20I'm%20Pulkit!&fontSize=60&fontAlignY=35&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Python%20%7C%20C%2B%2B&descSize=20&descAlignY=65&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Cracking+Python+Automation;Walking+While+Others+Run;B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
-  </a>
-
-</div>
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1029957609119293470) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pulkit_real.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pulkit Pradhan ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pulkitpradhan12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com) 
