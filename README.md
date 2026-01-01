@@ -95,15 +95,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Achievement-100%2B%20Contributions-success?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-critical?style=flat-square&logo=github" />
-</div>
-
----
 
 ### 🧠 Food for Thought
 
