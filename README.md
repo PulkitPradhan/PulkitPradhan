@@ -46,6 +46,7 @@
 </div>
 
 ---
+<!--
 ### 📂 Featured Projects ("The Meat")
 
 <div align="center">
@@ -54,11 +55,10 @@
 | :--- | :--- | :--- |
 <!----| **🤖 AI Automation Bot** | ** | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) |
 | **🎮 C++ ** | ** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
--->
 </div>
 
 ---
-
+--->
 ### 📊 The Stats (Live Tracking)
 
 <div align="center">
@@ -83,6 +83,7 @@
   <img src="https://github.com/PulkitPradhan/PulkitPradhan/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </div>
 
+<!--
 <div align="center">
   <br/>
   <a href="https://wakatime.com">
@@ -92,7 +93,7 @@
   <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="100%">
 </div>
-
+-->
 ---
 
 
