@@ -1,43 +1,98 @@
 <div align="center">
-  
-  # Hi, I'm Pulkit 👋
-  
-  ### B.Tech AI & ML | Full-Stack Developer | Systems Enthusiast
-  
-  I build intelligent systems, clean interfaces, and scalable applications. Currently focused on integrating Web3 with healthcare and crafting premium UI/UX experiences.
 
-  ---
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Pulkit%20Pradhan&desc=AI%20Engineer%20in%20Making%20%7C%20Python%20%7C%20C%2B%2B&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn&height=250" width="100%"/>
 
-  ## 💻 Tech Stack & Tools
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AI+%26+ML)+Student;Building+Efficient+Automation;Explaining+Code+to+Machines;Leveling+Up+in+C%2B%2B+and+Unreal" alt="Typing SVG" />
+  </a>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
+</div>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </p>
+---
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
-  </p>
+#### ⚡ About Me
 
-  ---
+<div align="center">
+<table>
+  <tr>
+    <td valign="center" width="50%">
+      <h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+      <br/>
+      I am a <b>Computer Science</b> student specializing in <b>AI & ML</b>. I love bridging the gap between high-level AI logic and low-level system engineering.
+      <br/><br/>
+      🚀 <b>Current Focus:</b> Mastering Python Automation & C++.
+      <br/>
+      🤖 <b>Goal:</b> Building smart systems and game mechanics.
+      <br/>
+      ☕ <b>Fuel:</b> Coffee and debugging errors.
+    </td>
+    <td valign="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 🛠️ The Arsenal (Tech Stack)
+
+<div align="center">
+
+| **Languages** | **AI & Data Science** | **Web3 & Blockchain** | **Dev & Creative Tools** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br/> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br/> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) <br/> ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br/> ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <br/> ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) <br/> ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <br/> ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) <br/> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br/> ![OpenBullet](https://img.shields.io/badge/OpenBullet-FF6600?style=for-the-badge&logo=robot&logoColor=white) |
 
 
-  ---
+</div>
 
-  ## 📊 Development Metrics
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6&icon_color=ffffff" alt="GitHub Stats" />
-  
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6" alt="WakaTime Stats" />
+### 📊 The Stats (Live Tracking)
 
+<div align="center">
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PulkitPradhan&theme=vision-friendly-dark&hide_border=false" height="200"/>
+
+  <br/><br/>
+
+  <h3>👨‍💻 Most Used Languages</h3>
+  <img src="https://img.shields.io/badge/Python-Top%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Core%20Focus-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-Web%20Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PulkitPradhan&bg_color=0f0c29&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/PulkitPradhan/PulkitPradhan/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+---
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1029957609119293470) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pulkit_real.exe) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulkit-pradhan-664152383/>
+) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com)
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PulkitPradhan&style=flat-square&label=Profile+Views&color=00BFFF" alt="Profile Views"/>
+   
+  <br/><br/>
+   
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100" width="100%"/>
 </div>
