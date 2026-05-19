@@ -24,7 +24,7 @@
       💻 <b>Environment:</b> Coding on Arch Linux (Hyprland) & designing in Figma.
       <br>
       <br/>
-      ☕ <b> Coffee + music, and debugging complex errors.</b>b>
+      ☕ <b> Coffee + music, and debugging complex errors.</b>
     </td>
     <td valign="center" width="50%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
