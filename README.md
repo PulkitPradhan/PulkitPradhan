@@ -11,6 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+Android+Developer;AI+%2F+ML+Enthusiast;Web3+%2F+Solana+Explorer;Arch+Linux+%7C+Hyprland+Daily+Driver)](https://git.io/typing-svg)
 
 </div>
+<!----------adding space fore new tool------->
 
 ---
 
