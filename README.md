@@ -24,10 +24,10 @@ class PulkitPradhan:
         self.role        = "B.Tech CSE (AI & ML) Student"
         self.ping        = "Freelance Software Engineer"
         self.location    = "India"
-        self.os          = "Arch Linux + Hyprland"
+        self.os          = "Omarchy"
         self.editor      = "Neovim / VS Code"
         self.languages   = ["Python", "C++", "JavaScript", "Kotlin"]
-        self.interests   = ["AI/ML", "Full-Stack", "Android Dev", "Web3", "Solana"]
+        self.interests   = ["AI/ML", "Full-Stack", "Android Dev",]
         self.currently   = "Bridging high-level AI logic with clean UIs"
         self.philosophy  = "☕ + 🎵 + bug that shouldn't exist = 3 AM solution"
 
