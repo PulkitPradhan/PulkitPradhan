@@ -52,16 +52,16 @@ class PulkitPradhan:
 
 ---
 
-## `> git log --stat`
+/## `> git log --stat`
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PulkitPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&rank_icon=github" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=PulkitPradhan&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/>
 
-</div>
+</div> -->
 
 ---
 
