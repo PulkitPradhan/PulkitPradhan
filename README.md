@@ -13,7 +13,7 @@
     width="500"
   alt="Umaru-chan"
 />
-  <img width="458" height="480" alt="baka >:3 " src="https://github.com/user-attachments/assets/afa2c865-a630-4c88-9174-ef8675aa5a3b"/>
+  <img width="458" height="480" alt="baka >:3" src="https://github.com/user-attachments/assets/afa2c865-a630-4c88-9174-ef8675aa5a3b"/>
 
 
 </div>
