@@ -9,10 +9,12 @@
 <div align="center">
 
 <img
-  src="https://github.com/user-attachments/assets/412022fb-388e-4347-af09-1c72a614cb5c" 
-  width="500"
+  src="https://github.com/user-attachments/assets/412022fb-388e-4347-af09-1c72a614cb5c"
+    width="500"
   alt="Umaru-chan"
 />
+  <img width="458" height="480" alt="baka >:3 " src="https://github.com/user-attachments/assets/afa2c865-a630-4c88-9174-ef8675aa5a3b"/>
+
 
 </div>
 
@@ -82,8 +84,7 @@ Contributing to open-source software, learning from real codebases, reviews, CI 
 
 **[NAND_TO_TETRIS](https://github.com/PulkitPradhan/NAND_TO_TETRIS)** — Exploring how computers work from logic gates to software.
 
----><img width="458" height="480" alt="giphy" src="https://github.com/user-attachments/assets/afa2c865-a630-4c88-9174-ef8675aa5a3b" />
- 
+--->
 
 ### `> tech_stack`
 
