@@ -1,98 +1,146 @@
-<div align="center">
-
-<!-- WAVE HEADER START (kept as requested) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Pulkit%20Pradhan&desc=AI%20Engineer%20in%20Making%20%7C%20Python%20%7C%20C%2B%2B&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&fontSize=50&descSize=20&animation=fadeIn&height=250" width="100%"/>
-
-</div>
-
----
-**`B.Tech CSE (AI & ML) · Building at the intersection of intelligence & interfaces`**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+Android+Developer;AI+%2F+ML+Enthusiast;Arch+Linux+%7C+Hyprland+Daily+Driver)](https://git.io/typing-svg)
-
-</div>
-<!----------adding space fore new tool------->
-
----
-
-## `> whoami`
-
-```python
-class PulkitPradhan:
-    def __init__(self):
-        self.name        = "Pulkit Pradhan"
-        self.role        = "B.Tech CSE (AI & ML) Student"
-        self.ping        = "Freelance Software Engineer"
-        self.location    = "India"
-        self.os          = "Omarchy"
-        self.editor      = "Neovim / VS Code"
-        self.languages   = ["Python", "C++", "JavaScript", "Kotlin"]
-        self.interests   = ["AI/ML", "Full-Stack", "Android Dev",]
-        self.currently   = "Bridging high-level AI logic with clean UIs"
-        self.philosophy  = "☕ + 🎵 + bug that shouldn't exist = 3 AM solution"
-
-    def __str__(self):
-        return f"Building intelligent systems, one commit at a time."
-```
-
----
-
-## `> tech --list`
 
 <div align="center">
 
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) | | | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Pulkit%20Pradhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%7C%20Backend%20%7C%20Systems&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Pulkit Pradhan Banner"/>
+
+
+
+
+<div align="center">
+
+<img
+  src="https://github.com/user-attachments/assets/412022fb-388e-4347-af09-1c72a614cb5c"
+  width="300"
+  alt="Umaru-chan"
+/>
+
+</div>
+
+
+<h3>「コードを書き、学び続ける。」</h3>
+
+<p><i>Write code. Keep learning.</i></p>
+
+<p>
+  B.Tech CSE (AI &amp; ML) · AI Systems · Backend · Open Source
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/pulkit-pradhan-664152383/">LinkedIn</a> ·
+  <a href="mailto:pulkitpradhan440@gmail.com">Email</a> ·
+  <a href="https://discord.com/users/1029957609119293470">Discord</a> ·
+  <a href="https://x.com/Pulkitpradhan12">X</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=PulkitPradhan&label=Profile%20Views&color=bb9af7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-/## `> git log --stat`
+I build AI infrastructure, backend systems, and developer tools, with a focus on understanding how things work beneath the abstractions.
 
-<!-- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PulkitPradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitPradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=PulkitPradhan&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/>
-
-</div> -->
+Currently exploring **LLM agents, MCP, observability, evaluation, and reliable AI systems**. I enjoy building things, breaking them, and figuring out why they broke.
 
 ---
 
-## `> crontab -l  # contribution activity`
+### `> selected_work`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[AERLOG](https://github.com/PulkitPradhan/AERLOG)**
+
+MCP Agent Flight Recorder & Reliability Cockpit.
+
+Records MCP execution sessions, reconstructs timelines, and explores safe replay and failure analysis for debugging agent workflows.
+
+`Python` · `MCP` · `SQLite` · `JSON-RPC`
+
+</td>
+<td width="50%" valign="top">
+
+**[VeilPay](https://veilpayapp.com)**
+
+Startup website and product-facing development.
+
+Worked on building the startup's web presence, focusing on interface design, responsive layouts, and user experience.
+
+`Web Development` · `UI/UX` · `Frontend`
+
+</td>
+</tr>
+</table>
+
+### `> open_source`
+
+Contributing to open-source software, learning from real codebases, reviews, CI pipelines, and maintainers.
+
+**[Caelestia Shell](https://github.com/caelestia-dots/shell)** — Worked on QML-based interface improvements involving weather units and Keep Awake behavior.
+
+**[NAND_TO_TETRIS](https://github.com/PulkitPradhan/NAND_TO_TETRIS)** — Exploring how computers work from logic gates to software.
+
+---
+
+### `> tech_stack`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PulkitPradhan&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h4>Languages</h4>
 
-[![Snake Animation](https://github.com/PulkitPradhan/PulkitPradhan/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/PulkitPradhan/PulkitPradhan/raw/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,kotlin&theme=dark&perline=5" height="48" alt="Languages"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL"/>
+
+<h4>AI / Machine Learning</h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+
+<h4>LLMs / Agentic Systems</h4>
+
+<img src="https://img.shields.io/badge/LLMs-1a1b26?style=for-the-badge&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/AI_Agents-7aa2f7?style=for-the-badge&logoColor=1a1b26" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/MCP-bb9af7?style=for-the-badge&logoColor=1a1b26" alt="MCP"/>
+<img src="https://img.shields.io/badge/RAG-1a1b26?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Evaluations-9ece6a?style=for-the-badge&logoColor=1a1b26" alt="Evals"/>
+
+<h4>Backend / Infrastructure</h4>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,docker,git,github,linux&theme=dark&perline=8" height="48" alt="Backend and Infrastructure"/>
+
+<h4>Frontend / Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma,arch,neovim,vscode&theme=dark&perline=8" height="48" alt="Frontend and Development Tools"/>
 
 </div>
 
 ---
 
-## `> curl --social`
+### `> git log --graph`
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1029957609119293470)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pulkit_real.exe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulkit-pradhan-664152383/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulkitpradhan440@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PulkitPradhan&style=flat-square&label=Profile+Views&color=00BFFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PulkitPradhan&bg_color=1a1b26&color=bb9af7&line=7aa2f7&point=f7768e&area=true&area_color=7aa2f7&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-<!-- WAVE FOOTER END (kept as requested) -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+<sub>「まだまだこれから。」 — The best is yet to come.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=110&section=footer" width="100%" alt="Footer Wave"/>
+
 </div>
