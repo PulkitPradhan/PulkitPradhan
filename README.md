@@ -9,8 +9,8 @@
 <div align="center">
 
 <img
-  src="https://github.com/user-attachments/assets/412022fb-388e-4347-af09-1c72a614cb5c"
-  width="300"
+  src="https://github.com/user-attachments/assets/412022fb-388e-4347-af09-1c72a614cb5c" 
+  width="500"
   alt="Umaru-chan"
 />
 
