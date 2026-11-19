@@ -73,6 +73,7 @@ Worked on building the startup's web presence, focusing on interface design, res
 </tr>
 </table>
 
+<!--
 ### `> open_source`
 
 Contributing to open-source software, learning from real codebases, reviews, CI pipelines, and maintainers.
@@ -81,7 +82,8 @@ Contributing to open-source software, learning from real codebases, reviews, CI 
 
 **[NAND_TO_TETRIS](https://github.com/PulkitPradhan/NAND_TO_TETRIS)** — Exploring how computers work from logic gates to software.
 
----
+---><img width="458" height="480" alt="giphy" src="https://github.com/user-attachments/assets/afa2c865-a630-4c88-9174-ef8675aa5a3b" />
+ 
 
 ### `> tech_stack`
 
