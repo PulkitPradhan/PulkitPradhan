@@ -22,8 +22,6 @@
 
 <h3>「コードを書き、学び続ける。」</h3>
 
-<p><i>Write code. Keep learning.</i></p>
-
 <p>
   B.Tech CSE (AI &amp; ML) · AI Systems · Backend · Open Source
 </p>
