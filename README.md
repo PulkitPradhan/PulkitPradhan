@@ -33,8 +33,8 @@
   <a href="https://x.com/Pulkitpradhan12">X</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=PulkitPradhan&label=Profile%20Views&color=bb9af7&style=flat-square" alt="Profile Views"/>
-
+<!--<img src="https://komarev.com/ghpvc/?username=PulkitPradhan&label=Profile%20Views&color=bb9af7&style=flat-square" alt="Profile Views"/>
+-->
 </div>
 
 ---
